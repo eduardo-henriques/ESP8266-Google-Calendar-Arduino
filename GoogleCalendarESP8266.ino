@@ -13,13 +13,13 @@
 const char* ssid = "ssid"; //replace with you ssid
 const char* password = "password"; //replace with your password
 //Google Script ID
-const char *GScriptId = "gscriptid"; //replace with you gscript id
+const char *GScriptId = "AKfycbzi3cp41SXEPop-dTkUlj4_VdgBUbkHipx-yD_cBt4galLTBqk"; //replace with you gscript id
 
 //Connection Settings
 const char* host = "script.google.com";
 const char* googleRedirHost = "script.googleusercontent.com";
-const char* hostFingerprint = "googleFingerprint"; //replace with fingerprint for host
-const char* googleRedirHostFingerprint = "redirectFingerprint"; // replace with the fingerprint for the redirected host
+//const char* hostFingerprint = "googleFingerprint"; //replace with fingerprint for host
+//const char* googleRedirHostFingerprint = "redirectFingerprint"; // replace with the fingerprint for the redirected host
 const int httpsPort = 443;
 
 //Fetch Google Calendar events
