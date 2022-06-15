@@ -1,11 +1,3 @@
-/*  HTTPS with follow-redirect
- *  Created by Sujay S. Phadke, 2016
- *  All rights reserved.
- *
- *  Modified by Daniel Willi, 2016
- *  
- */
-
 #include <WiFiClientSecure.h>
 
 class HTTPSRedirect : public WiFiClientSecure {
