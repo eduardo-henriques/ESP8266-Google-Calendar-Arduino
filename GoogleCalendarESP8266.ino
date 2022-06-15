@@ -1,11 +1,3 @@
-/*  Google Calendar Integration ESP8266
- *  Created by Daniel Willi, 2016
- *
- *  Based on the WifiClientSecure example by
- *  Ivan Grokhotkov
- *
- */
-
 #include <ESP8266WiFi.h>
 #include "HTTPSRedirect.h"
 
